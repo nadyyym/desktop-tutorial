@@ -1,0 +1,16 @@
+{
+  "name": "desktop-tutorial",
+  "version": "1.0.0",
+  "description": "This is your README. READMEs are where you can communicate what your project is and how to use it.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@supabase/supabase-js": "^2.45.4",
+    "axios": "^1.7.7"
+  }
+}
