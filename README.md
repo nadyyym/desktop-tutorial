@@ -1,5 +1,12 @@
-# Welcome to GitHub Desktop!
+# Strava Leaderboard
+Version 0.0.1 
+- html log in
+- working strava authentication
+# To do
+- [ ] implement Supabase authentication with magic link
+- [ ] store user strava auth tokens in supabase
+- [ ] use strava api to get activities and store in supabase db
+- [ ] switch to next.js app on frontend
+- [ ] create leaderboard page
+- [ ] add table and charts using nivo
 
-This is your README. READMEs are where you can communicate what your project is and how to use it.
-
-Write your name on line 6, save it, and then head back to GitHub Desktop.
